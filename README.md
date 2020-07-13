@@ -1,6 +1,6 @@
 # Mr Stein's Recipe
 
-APK : <a id="raw-url" href="https://github.com/mrstein21/meals_app/tree/master/apk//">Download FILE</a>
+APK : <a id="raw-url" href="https://github.com/mrstein21/meals_app/tree/master/apk">Download FILE</a>
 
 HomePage :
  - Halaman yang menampilkan list category serta makanan resep italia serta pilihan untuk melihat makanan di negara lain<br/><br/>![](images/home.jpeg)
